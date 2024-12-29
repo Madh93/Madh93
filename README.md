@@ -12,6 +12,14 @@
 - 📫 How to reach me: **[me@mhdez.com](mailto:me@mhdez.com)**
 - 💬 Ask me about: **DevOps, Cloud Infrastructure, CI/CD, Automation**
 
+## 🏗️ Latest Projects
+
+### [Hoarderbot](https://github.com/Madh93/hoarderbot)
+A [Telegram Bot](https://core.telegram.org/bots) written in [Go](https://go.dev/) that enables users to effortlessly save bookmarks to [Hoarder](https://hoarder.app), a self-hostable bookmark-everything app, directly through Telegram.
+
+### [go-hoarder](https://github.com/Madh93/go-hoarder)
+An auto-generated [Go](https://go.dev/) client library for [Hoarder](https://hoarder.app) using the [`oapi-codegen`](https://github.com/oapi-codegen/oapi-codegen) tool.
+
 ## 🛠️ My Tech Stack
 
 ### Scripting & Programming Languages
